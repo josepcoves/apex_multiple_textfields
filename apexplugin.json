@@ -1,0 +1,33 @@
+{
+  "name" : "Multiple textfield",
+  "version" : "1.0",
+  "description" : "APEX plugin which renders multiple textfield inputs and stores result as a single string, separated by scpecial character.",
+  "keywords" : ["textfield","multiple", "apex", "plugin", "oracle", "item"],
+  "homepage" : "https://github.com/josepcoves/apex_multiple_textfields",
+  "bugs" : {
+    "url" : "https://github.com/josepcoves/apex_multiple_textfields/issues",
+    "email" : "josepcoves@relational.es"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Josep Coves",
+    "email" : "josepcoves@relational.es",
+    "url" : "http://www.relational.es/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/josepcoves/apex_multiple_textfields.git"
+  },
+ "oracle" : {                                            
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "ES.RELATIONAL.JOSEPCOVES.MULTITEXTFIELD",
+        "type" : "item",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=JOSEPCOVES:MULTIPLE_TEXTFIELDS",
+        "previewImage" : "https://raw.githubusercontent.com/josepcoves/apex_multiple_textfields/master/source/images/multiple_textfields_demo.gif"
+      }
+    }
+  }
+}
