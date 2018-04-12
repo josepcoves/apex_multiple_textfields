@@ -9,7 +9,7 @@ Useful to render bank account items, arrays, matrix, etc.
 Session value storage example: TEXTFIELDVALUE1|TEXTFIELDVALUE2|TEXTFIELDVALUE3 
 
 ###Features  
-Possibility to specify ilimited number of textfields
+Possibility to specify unlimited number of textfields
 Possibility to specify custom separator
 Possiblity to specify different length for each textfield
 Possiblity to specify different CSS classes for each textfield

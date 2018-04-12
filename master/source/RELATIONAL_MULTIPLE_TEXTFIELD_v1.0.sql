@@ -169,7 +169,7 @@ wwv_flow_api.create_plugin(
 '<p>Session value storage example: TEXTFIELDVALUE1|TEXTFIELDVALUE2|TEXTFIELDVALUE3&nbsp;</p>',
 '<h2><strong>Features</strong></h2>',
 '<ul>',
-'<li>Possibility to specify ilimited number of textfields</li>',
+'<li>Possibility to specify unlimited number of textfields</li>',
 '<li>Possibility to specify custom separator</li>',
 '<li>Possiblity to specify different length for each textfield</li>',
 '<li>Possiblity to specify different CSS classes for each textfield</li>',
